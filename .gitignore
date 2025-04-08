@@ -168,3 +168,4 @@ Chapter*.ipynb
 test*.ipynb
 *.pth
 mlruns/
+*.txt
