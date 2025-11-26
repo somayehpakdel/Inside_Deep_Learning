@@ -167,5 +167,5 @@ data*/
 Chapter*.ipynb
 test*.ipynb
 *.pth
-mlruns/
+mlruns*/
 *.txt
